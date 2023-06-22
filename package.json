@@ -89,7 +89,7 @@
     "@react-native-community/netinfo": "5.9.7",
     "@react-native-community/viewpager": "5.0.5",
     "@react-native-firebase/app": "12.9.3",
-    "@react-native-firebase/crashlytics": "12.9.3",
+    "@react-native-firebase/crashlytics": "17.4.3",
     "@react-native-firebase/messaging": "12.9.3",
     "@react-native-firebase/remote-config": "12.9.3",
     "@react-navigation/core": "5.12.5",
