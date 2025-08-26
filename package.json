@@ -131,7 +131,7 @@
     "eth-contract-metadata": "1.16.0",
     "eth-url-parser": "1.0.4",
     "ethereumjs-util": "6.2.1",
-    "ethereumjs-wallet": "1.0.1",
+    "ethereumjs-wallet": "1.0.2",
     "events": "1.1.1",
     "global": "4.4.0",
     "grapheme-splitter": "1.0.4",
