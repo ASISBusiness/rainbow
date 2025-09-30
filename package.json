@@ -156,7 +156,7 @@
     "p-wait-for": "4.1.0",
     "parse-domain": "4.1.0",
     "parse-ms": "2.1.0",
-    "patch-package": "6.4.7",
+    "patch-package": "8.0.1",
     "path-browserify": "0.0.0",
     "prop-types": "15.7.2",
     "punycode": "1.4.1",
